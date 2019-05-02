@@ -25,7 +25,7 @@ ResultFromExternalLibrary result = this.someExternalLibrary.doSomethingWithParam
   parameter1,
   parameter2,
   parameter3
-  );
+);
 ```
 
 ### Builder pattern
