@@ -2,7 +2,7 @@ Note that the current coding convention is for java only, other languages might 
 
 ### Indentation 
 - Use 4 spaces
-- Code is meant to be read, please use add newlines + indentation to split long code statements / long method calls, imagine, do you prefer reading an long article and scorll horizontally or vertically?
+- Code is meant to be read, please use add newlines + indentation to split long code statements / long method calls, imagine, do you prefer horizontal or vertical scroll when reading a long article?
 
 ```java
 // Bad, ugh :(, make reading great again!
