@@ -1,5 +1,5 @@
-### Indentation
-- Use 4 spaces
+### Indentation 
+- Use 4 spaces / any space that your language of choice recommends
 - Code is meant to be read, please use add newlines + indentation to split long code statements / long method calls, imagine, do you prefer reading an long article and scorll horizontally or vertically?
 
 ```java
